@@ -23,7 +23,7 @@ export namespace Config {
 
 ## 工程说明
 
-- `entry/libs/nertc_sdk.har`：NERTC HarmonyOS SDK HAR，已随 demo 放入工程。
+- `entry/oh-package.json5`：通过 OHPM 官方仓库依赖 NERTC HarmonyOS SDK。
 - `entry/src/main/ets/pages/Home.ets`：输入用户 ID、房间号并跳转入房。
 - `entry/src/main/ets/pages/ScreenShareRoom.ets`：通话 UI，本地视频、本地屏幕、远端主流/辅流画布。
 - `entry/src/main/ets/common/ScreenShareController.ets`：SDK 初始化、入房、屏幕共享、远端订阅和回调处理。
