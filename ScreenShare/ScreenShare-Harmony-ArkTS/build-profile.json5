@@ -11,7 +11,7 @@
         },
         "compatibleSdkVersion": "5.0.0(12)",
         "targetSdkVersion": "5.0.0(12)",
-        "compatibleSdkVersionStage": "beta1",
+        "compatibleSdkVersionStage": "release",
         "runtimeOS": "HarmonyOS"
       }
     ],

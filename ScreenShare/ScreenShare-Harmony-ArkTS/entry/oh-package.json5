@@ -7,6 +7,6 @@
   "main": "",
   "version": "1.0.0",
   "dependencies": {
-    "@nertc/nertc_sdk": "file:libs/nertc_sdk.har"
+    "@nertc/nertc_sdk": "5.10.1"
   }
 }
